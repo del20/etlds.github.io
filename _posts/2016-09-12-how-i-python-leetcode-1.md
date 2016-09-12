@@ -180,6 +180,6 @@ var disqus_config = function () {
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {% endif %}
 
-[leetcode]: https://leetcode
+[leetcode]: https://leetcode.com
 [perfect-rectangle]: https://leetcode.com/problems/perfect-rectangle/
 [googld-python-style-guide]: https://google.github.io/styleguide/pyguide.html
