@@ -20,6 +20,7 @@ This problem is called [Perfect Rectangle][perfect-rectangle]. Determine if rect
 Algorithm
 ======
 The algorithm has couple parts
+
 1. Keep tracking the most bottom-left corner and most top-right corner
 2. Keep tracking the total area of all the rectangles that provided.
 3. Put all the corners into a hash (key: x-y, value: type) and flag their type. I use "x-y" as key,  and bit flag for types (top-left, bottom-left, bottom-right, top-right).
